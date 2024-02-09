@@ -1,6 +1,21 @@
 # Hello-World1
-My first repository
+***My first repository***
 
-## Title
-### Smaller Title
-This is my first attempt at using branches in GitHub!!!
+## Table of Contents
+- [PROJECT TITLE](#Project_Title)
+- [DESCRIPTION](#Description)
+- [SOURCES](#Sources)
+
+## Project Title
+*Data*
+
+White Space :joy:
+
+## Description
+Practice using GitHub and Markdown Syntax. This is the description and this is **bold** text. [^1]
+[^1]: Bold text uses two asteriks. ~~The world is flat.~~
+
+More white space :anger:
+
+## Sources
+John Hopkins University
