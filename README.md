@@ -2,9 +2,10 @@
 ***My first repository***
 
 ## Table of Contents
-- [Project Title] (#Project_Title)
-- [Description] (#Description)
-- [Sources] (#Sources)
+- [Project Title]_(#Project_Title)
+- [Description]_(#Description)
+- [Sources]_(#Sources)
+  
 ## Project Title
 *Data*
 
